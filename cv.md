@@ -1,10 +1,9 @@
-# Bochoidze Amiran Albertovich
-### My Contacts
-* Email: amiran.bo@gmail.com
-* Telegram: @GaM8BiT
-* Discord: GaM8B1T#0473
----
-### My goal
-* Become a Front-end Developer!
-### English level
-* My English level is A2
+# ___Bochoidze Amiran Albertovich___
+### ___My Contacts___
+* ___Email: amiran.bo@gmail.com___
+* ___Telegram: @GaM8BiT___
+* ___Discord: GaM8B1T#0473___
+### ___My goal___
+* ___Become a Front-end Developer!___
+### ___English level___
+* ___My English level is A2___
